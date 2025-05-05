@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PasseioApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Angular_Roteiros-de-Viagens
+Repositório criado à partir de aulas sobre Angular 19 (NgModule)
+>>>>>>> 01e1e65aded9cb3f3db29d5a6853243bfd62cf93
